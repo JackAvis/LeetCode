@@ -1,2 +1,2 @@
 # LeetCode
-Place to Practice Coding Problems
+A place to practice coding problems
