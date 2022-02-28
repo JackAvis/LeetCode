@@ -9,11 +9,9 @@ class Solution {
             }
             else{
                 r--;
-                l++;
-                
+                l++; 
             }
         }
         return true;
-        
     }
 }
