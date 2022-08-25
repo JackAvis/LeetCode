@@ -18,4 +18,4 @@ class Solution:
             
             
             
-            
+print(4.0 // 2.0)
