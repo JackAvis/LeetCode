@@ -3,7 +3,6 @@ class Solution(object):
         l = 0
         r = len(nums) - 1
         sol = []
-        i = 0
         if len(nums) == 1:
             if nums[0] == target:
                 return [0, 0]
